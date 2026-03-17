@@ -1,0 +1,33 @@
+Image-Generation Prompt:
+
+create a realistic image of the product, where the name of the product is "AquaVibe"
+
+characteristics of product:
+the color of the product may be light in color representing ocean, beach as it is a hydration cream used after shower
+the product design and shape should remain the same as the provided image, only adjusting details to reflect a hydration cream
+
+the background should contain a shower setting, bathroom tiles with the effect of some water droplets on the product
+the background can contain some indoor plants
+
+the font and style of the product should be more aesthetic with some 3D effects
+
+the image of the product is given so apply changes to it without changing the overall structure, composition, or style of the original output.
+
+Video-Generation Prompt:
+
+Ultra-realistic cinematic skincare advertisement featuring a premium cosmetic tube labeled “AquaVibe,” placed on a clean white tiled bathroom counter behind a slightly foggy glass panel covered with water droplets.
+
+Environment & Atmosphere:
+Soft natural morning sunlight enters the bathroom, creating a calm, spa-like atmosphere. The background includes blurred green plants, adding a fresh and natural touch. The setting remains minimal, bright, and modern, with soft reflections visible on the tiles.
+
+Camera Movement:
+The camera slowly pushes forward toward the product while water droplets gently slide down the glass surface. As the camera approaches, the focus gradually shifts to the product packaging.
+
+Product Details:
+The packaging showcases ocean-inspired wave graphics with a fresh aqua color palette. The product remains the central focus, with highly detailed textures and a premium finish.
+
+Visual Effects:
+Tiny water mist particles float softly in the air, emphasizing hydration and freshness. A shallow depth of field keeps the product sharp while the background stays softly blurred.
+
+Style & Quality:
+Smooth cinematic motion, luxury skincare commercial style, soft lighting, and a premium beauty product aesthetic.
